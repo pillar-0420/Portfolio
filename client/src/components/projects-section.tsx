@@ -78,7 +78,7 @@ export default function ProjectsSection() {
                   ))}
                 </div>
                 
-                <div className="flex space-x-4 pt-4">
+                {/* <div className="flex space-x-4 pt-4">
                   <a href="#" className="flex items-center space-x-2 text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 transition-colors duration-300">
                     <i className="fab fa-github"></i>
                     <span>View Code</span>
@@ -87,7 +87,7 @@ export default function ProjectsSection() {
                     <i className="fas fa-external-link-alt"></i>
                     <span>Live Demo</span>
                   </a>
-                </div>
+                </div> */}
               </div>
             </div>
           ))}
