@@ -33,7 +33,7 @@ export default function Footer() {
           
           <div className="border-t border-slate-800 pt-8">
             <p className="text-slate-400">
-              © 2024 Franklin Liu. All rights reserved.
+              © 2025 Franklin Liu. All rights reserved.
             </p>
           </div>
         </div>
